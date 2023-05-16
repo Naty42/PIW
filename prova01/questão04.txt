@@ -1,0 +1,12 @@
+PROPS DRILLING 
+Facilita a comunicação entre componetes. 
+
+                avo -> pai -> filho -> neto
+
+Na versão de props normal, para o neto pedir/entregar uma informação para o avo, ele é obrigado a passar pelo pai e pelo filho.
+
+No props drilling, o avo consegue comunicar-se simuntaneamente com os seus parentes, veja:
+
+        ---- pai
+avo --- ---- filho
+        ---- neto

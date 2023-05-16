@@ -1,0 +1,15 @@
+QUESTAO 01 - 2,5 pontos
+Creio que fiz tudo e a minha pontuação esteja certa, salvo engano pois, ainda tenho muita dificuldade em maps. 
+
+
+QUESTAO 02 - 2,5 pontos
+Foi mais tranquila pois usei a dica dada da função Virar, e essa questão lembra bastante uma atividade passada pra sala, mas, não consegui usar a API recomendada. Além disso, meus comentários nessas questão foram rasos por eu ter usado comandos básicos
+
+
+QUESTÃO 03 - 1,0
+Não consegui aprender async await e, lembrava apenas da sintaxe de then-catch, após alguma tentativas falhas, conclui que não conseguiria responder essa questão. 
+Porém, não deixei totalmente zerada, coloquei alguns pequenos conhecimentos que tenho.
+
+
+QUESTÃO 04 - 2,5 pontos
+Sem comentários sobre essa.
